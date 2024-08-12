@@ -1,0 +1,3 @@
+[submodule "Source/ThirdParty/UnrealCDTLibrary/CDT"]
+	path = Source/ThirdParty/UnrealCDTLibrary/CDT
+	url = https://github.com/artem-ogre/CDT.git
