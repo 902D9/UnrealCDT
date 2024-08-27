@@ -36,6 +36,8 @@ public class UnrealCDT : ModuleRules
 		PrivateDependencyModuleNames.AddRange(
 			new string[]
 			{
+				"CoreUObject",
+				"Engine",
 				// ... add private dependencies that you statically link with here ...	
 			}
 			);
